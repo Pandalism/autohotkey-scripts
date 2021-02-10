@@ -65,7 +65,7 @@ monToggle = 0
 		Run, %mon2%, %monDir%
 	Case 2:
 		monToggle := 0
-		Run, %mon3%, %monDir%
+		Run, %mon0%, %monDir%
 	}
 	; https://docs.rainmeter.net/manual/bangs/ <- use to change rainmeter skin
     Return
