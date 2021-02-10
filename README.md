@@ -11,5 +11,5 @@ script to handle starting up various programs with delay and context awareness a
 ### ethminer.ahk
 Script to set correct gpu profile before launching ethminer and then reverting back to normal overclocked profile when closed
 
-### background.ahk
+### ahk-hotkeys.ahk
 Script with a set of hotkeys, hotstings and other personal QoL improvements for windows
