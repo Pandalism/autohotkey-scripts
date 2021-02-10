@@ -1,6 +1,8 @@
 #SingleInstance, Force
+#NoTrayIcon
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
+
 
 
 ; constants:
